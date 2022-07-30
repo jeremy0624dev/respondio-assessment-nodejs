@@ -1,0 +1,4 @@
+sendgrid.envsource ./sendgrid.env
+# Project exclude paths
+/dist/models/fbMessagesFrom/fbMessageFrom.functions.js
+/node_modules/
